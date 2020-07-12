@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('https://cdn.vox-cdn.com/thumbor/e_-pdznlUeV3LgMyGGLktDbeKIc=/0x0:1920x1024/1200x0/filters:focal(0x0:1920x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19858563/M_C_Cam4.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 code {
