@@ -1,6 +1,6 @@
 {
     "name": "jns-webapp",
-    "homepage": "https://joungskim.github.io/jns-webapp",
+    "homepage": "https://joungskim.github.io/jns-webapp/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
