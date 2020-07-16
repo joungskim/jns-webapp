@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.8596d0cc.chunk.css",
-    "main.js": "/robofriends/static/js/main.b83b5df4.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.b83b5df4.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.701aeeb2.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.701aeeb2.js.map",
-    "static/css/2.d811125f.chunk.css": "/robofriends/static/css/2.d811125f.chunk.css",
-    "static/js/2.c2bf9d1a.chunk.js": "/robofriends/static/js/2.c2bf9d1a.chunk.js",
-    "static/js/2.c2bf9d1a.chunk.js.map": "/robofriends/static/js/2.c2bf9d1a.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "precache-manifest.ce2e098a714b1a2118cfd2369abb1d25.js": "/robofriends/precache-manifest.ce2e098a714b1a2118cfd2369abb1d25.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.d811125f.chunk.css.map": "/robofriends/static/css/2.d811125f.chunk.css.map",
-    "static/css/main.8596d0cc.chunk.css.map": "/robofriends/static/css/main.8596d0cc.chunk.css.map",
-    "static/js/2.c2bf9d1a.chunk.js.LICENSE.txt": "/robofriends/static/js/2.c2bf9d1a.chunk.js.LICENSE.txt",
-    "static/media/jslogo.png": "/robofriends/static/media/jslogo.54b85546.png"
+    "main.css": "/jns-webapp/static/css/main.8596d0cc.chunk.css",
+    "main.js": "/jns-webapp/static/js/main.711b8c17.chunk.js",
+    "main.js.map": "/jns-webapp/static/js/main.711b8c17.chunk.js.map",
+    "runtime-main.js": "/jns-webapp/static/js/runtime-main.38c6a92d.js",
+    "runtime-main.js.map": "/jns-webapp/static/js/runtime-main.38c6a92d.js.map",
+    "static/css/2.d811125f.chunk.css": "/jns-webapp/static/css/2.d811125f.chunk.css",
+    "static/js/2.c2bf9d1a.chunk.js": "/jns-webapp/static/js/2.c2bf9d1a.chunk.js",
+    "static/js/2.c2bf9d1a.chunk.js.map": "/jns-webapp/static/js/2.c2bf9d1a.chunk.js.map",
+    "index.html": "/jns-webapp/index.html",
+    "precache-manifest.22647b50e8eee80e825327616bcf74ed.js": "/jns-webapp/precache-manifest.22647b50e8eee80e825327616bcf74ed.js",
+    "service-worker.js": "/jns-webapp/service-worker.js",
+    "static/css/2.d811125f.chunk.css.map": "/jns-webapp/static/css/2.d811125f.chunk.css.map",
+    "static/css/main.8596d0cc.chunk.css.map": "/jns-webapp/static/css/main.8596d0cc.chunk.css.map",
+    "static/js/2.c2bf9d1a.chunk.js.LICENSE.txt": "/jns-webapp/static/js/2.c2bf9d1a.chunk.js.LICENSE.txt",
+    "static/media/jslogo.png": "/jns-webapp/static/media/jslogo.54b85546.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.701aeeb2.js",
+    "static/js/runtime-main.38c6a92d.js",
     "static/css/2.d811125f.chunk.css",
     "static/js/2.c2bf9d1a.chunk.js",
     "static/css/main.8596d0cc.chunk.css",
-    "static/js/main.b83b5df4.chunk.js"
+    "static/js/main.711b8c17.chunk.js"
   ]
 }
