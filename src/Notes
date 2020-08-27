@@ -1,0 +1,12 @@
+component based redux project structures.
+
+Create a util for the api calls
+just has functions that makes api calls
+
+redux files should be placed into folders where the the component is located.
+
+example:
+src/containers/app.jsx
+src/containers/app/reducer
+src/containers/app/actions
+src/containers/app/constants
